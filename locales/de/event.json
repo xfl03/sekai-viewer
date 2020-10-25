@@ -1,0 +1,21 @@
+{
+  "alreadyEnded": "",
+  "tab": {
+    "title[0]": "",
+    "title[1]": "",
+    "title[2]": ""
+  },
+  "remainingTime": "",
+  "progress": "",
+  "boostAttribute": "",
+  "boostCharacters": "",
+  "maxBoost": "",
+  "aggregateAt": "",
+  "rankingAnnounceAt": "",
+  "distributionStartAt": "",
+  "distributionEndAt": "",
+  "ranking": "",
+  "realtime": "",
+  "nextfetch": "",
+  "alreadyPast": ""
+}

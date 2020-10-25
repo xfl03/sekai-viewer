@@ -1,0 +1,54 @@
+{
+  "home": "",
+  "card": "",
+  "music": "",
+  "gacha": "",
+  "event": "",
+  "stamp": "",
+  "unit": "",
+  "member": "",
+  "musicMeta": "",
+  "scoreCalculator": "",
+  "toolbar": {
+    "title": ""
+  },
+  "information": "",
+  "tools": "",
+  "settings": {
+    "title": ""
+  },
+  "language": "",
+  "darkmode": "",
+  "contentTranslationMode": {
+    "title": "",
+    "original": "",
+    "translated": "",
+    "both": ""
+  },
+  "id": "",
+  "title": "",
+  "character": "",
+  "support_unit": "",
+  "attribute": "",
+  "startAt": "",
+  "rarity": "",
+  "thumb": "",
+  "skill": "",
+  "releaseCondition": "",
+  "releaseCosts": "",
+  "rewards": "",
+  "type": "",
+  "endAt": "",
+  "icon": "",
+  "detect": {
+    "checking": "",
+    "unsupported": "",
+    "supported": ""
+  },
+  "support": "",
+  "campaign": "",
+  "bug": "",
+  "update": "",
+  "character_plural": "",
+  "level": ""
+}

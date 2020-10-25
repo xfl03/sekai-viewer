@@ -1,0 +1,21 @@
+{
+  "alert[0]": "모든 음악의 처음 <b>9초</b> 동안은 아무 소리도 나지 않습니다. 버그가 아니예요!",
+  "skipBeginningSilence": "",
+  "tag": "태그",
+  "category": "카테고리",
+  "actualPlaybackTime": "",
+  "arranger": "편곡",
+  "composer": "작곡",
+  "lyricist": "작사",
+  "danceMember": "댄스 멤버",
+  "dancerCount": "댄스 멤버 수",
+  "vocal": "보컬",
+  "vocalType": "보컬 타입",
+  "difficulty": "난이도",
+  "noteCount": "노트 수",
+  "tag_plural": "태그",
+  "category_plural": "카테고리",
+  "danceMember_plural": "댄스 멤버들",
+  "vocal_plural": "보컬",
+  "difficulty_plural": "난이도"
+}

@@ -1,0 +1,14 @@
+{
+  "tab": {
+    "title[0]": "特訓前画像",
+    "title[1]": "特訓前画像(背景なし)",
+    "title[2]": "特訓後画像",
+    "title[3]": "特訓後画像(背景なし)"
+  },
+  "stats": "ステータス",
+  "power": "総合力",
+  "sideStory1Unlocked": "サイドストーリー(前編)解放済み",
+  "sideStory2Unlocked": "サイドストーリー(後編)解放済み",
+  "sideStory": "サイドストーリー",
+  "sideStory_plural": "サイドストーリー"
+}

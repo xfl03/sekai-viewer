@@ -1,0 +1,22 @@
+{
+  "alert[0]": "",
+  "skipBeginningSilence": "",
+  "tag": "",
+  "tag_plural": "",
+  "category": "",
+  "category_plural": "",
+  "actualPlaybackTime": "",
+  "arranger": "",
+  "composer": "",
+  "lyricist": "",
+  "danceMember": "",
+  "danceMember_plural": "",
+  "dancerCount": "",
+  "vocal": "",
+  "vocal_plural": "",
+  "vocalType": "",
+  "difficulty": "",
+  "difficulty_plural": "",
+  "noteCount": "",
+  "tags": ""
+}

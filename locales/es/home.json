@@ -1,0 +1,27 @@
+{
+  "game-news": {
+    "action": "",
+    "show-from": "",
+    "title-column": "",
+    "show-until": "",
+    "title": ""
+  },
+  "alert0": "",
+  "alert_contributor": {
+    "title": ""
+  },
+  "alert_translate": {
+    "title": ""
+  },
+  "alert_settings": "",
+  "alert1": {
+    "title": "",
+    "translation": "",
+    "development": "",
+    "contact": "",
+    "join-discord": ""
+  },
+  "detect": {
+    "success": ""
+  }
+}

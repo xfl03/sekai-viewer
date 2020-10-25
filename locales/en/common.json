@@ -1,0 +1,54 @@
+{
+  "home": "Home",
+  "card": "Card",
+  "music": "Music",
+  "gacha": "Gacha",
+  "event": "Event",
+  "stamp": "Sticker",
+  "unit": "Unit",
+  "member": "Member",
+  "musicMeta": "Music Meta",
+  "scoreCalculator": "Score Calculator",
+  "toolbar": {
+    "title": "Function List"
+  },
+  "information": "Information",
+  "tools": "Tools",
+  "settings": {
+    "title": "Settings"
+  },
+  "language": "Language",
+  "darkmode": "Brightness Mode",
+  "contentTranslationMode": {
+    "title": "Game Content Display Mode",
+    "original": "Original",
+    "translated": "Translated (if available)",
+    "both": "Show Both"
+  },
+  "id": "ID",
+  "title": "Title",
+  "character": "Character",
+  "support_unit": "Support Unit",
+  "attribute": "Attribute",
+  "startAt": "Available From",
+  "rarity": "Rarity",
+  "thumb": "Thumb",
+  "skill": "Skill",
+  "releaseCondition": "Release Condition",
+  "releaseCosts": "Release Costs",
+  "rewards": "Rewards",
+  "type": "Type",
+  "endAt": "Available Until",
+  "icon": "Icon",
+  "detect": {
+    "checking": "Checking...",
+    "unsupported": "Unsupported",
+    "supported": "Supported"
+  },
+  "support": "Support",
+  "campaign": "Campaign",
+  "bug": "Bug",
+  "update": "Update",
+  "character_plural": "Characters",
+  "level": "Level"
+}

@@ -1,0 +1,24 @@
+{
+  "alreadyEnded": "Event is already ended",
+  "tab": {
+    "title[0]": "Banner & logo",
+    "title[1]": "Background",
+    "title[2]": "Character"
+  },
+  "remainingTime": "Remaining Time",
+  "progress": "Progress",
+  "boostAttribute": "Boost Attribute",
+  "boostCharacters": "Boost Charaters",
+  "maxBoost": "Max Boost (Both Matched)",
+  "aggregateAt": "Aggregate Timepoint",
+  "rankingAnnounceAt": "Ranking Announcement At",
+  "distributionStartAt": "Rewards Distribution From",
+  "distributionEndAt": "Rewards Distribution Until",
+  "ranking": "Ranking",
+  "realtime": "Real time at",
+  "nextfetch": "Next fetch",
+  "alreadyPast": "Already Past",
+  "type": {
+    "marathon": "Marathon"
+  }
+}
